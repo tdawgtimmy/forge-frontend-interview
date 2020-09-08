@@ -11,6 +11,7 @@ For this challenge, you will be building a basic CRUD app. You will have 1 hour 
     npm install
     npm start
     ```
+3. Write frontend code in the `app` directory.
 
 ### Goals
 
