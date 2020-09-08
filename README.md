@@ -1,4 +1,4 @@
-### Frontend Code Challenge
+## Frontend Code Challenge
 
 For this challenge, you will be building a basic CRUD app. You will have 1 hour to work on the goals outlined below.
 

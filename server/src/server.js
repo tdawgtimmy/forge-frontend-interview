@@ -1,7 +1,8 @@
-const notifications = require("./notifications.json")
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require("cors")
+
+const notifications = require("./notifications.json")
 
 const app = express();
 app.use(bodyParser.json());
