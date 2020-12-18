@@ -1,0 +1,15 @@
+.notification-card.severity-1 {
+  border-left: 3px solid green;
+}
+
+.notification-card.severity-2 {
+  border-left: 3px solid yellow;
+}
+
+.notification-card.severity-3 {
+  border-left: 3px solid red;
+}
+
+.notification-card .toast-header {
+  border-bottom: none;
+}
